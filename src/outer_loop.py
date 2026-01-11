@@ -1,0 +1,2 @@
+class OuterLoopController:
+    pass
